@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Saraha.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  RegisterForm.cpp
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1167,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1181,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1189,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1208,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1288,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1354,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1368,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Modified_Saraha - Copy\loginForm\MyForm.h(1374,20): warning C4101: 'NullReferenceException': unreferenced local variable
+  HomeForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  loginForm.vcxproj -> F:\Modified_Saraha - Copy\x64\Debug\loginForm.exe

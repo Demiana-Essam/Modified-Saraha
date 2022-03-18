@@ -1,0 +1,3 @@
+C:\Users\jimmy neutron\source\repos\loginForm\loginForm\Debug\loginForm.vcxprojAssemblyReference.cache
+C:\Users\jimmy neutron\source\repos\loginForm\loginForm\Debug\loginForm.MyForm.resources
+C:\Users\jimmy neutron\source\repos\loginForm\loginForm\Debug\loginForm.vcxproj.GenerateResource.cache
